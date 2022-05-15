@@ -144,7 +144,7 @@ Enter the third side of a triangle:
 6
 
 The given input lengths can form a triangle or not (Yes or No)?
-Tringle is valid
+Triangle is valid
 enter a number:13
 enter a number:14
 Number of bits needed to be flipped to convert a to b is: 2
